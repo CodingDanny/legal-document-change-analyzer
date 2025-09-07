@@ -1,0 +1,9 @@
+pymupdf4llm
+patiencediff
+diff-match-patch
+openai
+python-dotenv
+pydantic
+fastapi
+python-multipart
+uvicorn

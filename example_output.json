@@ -1,0 +1,2446 @@
+[
+  {
+    "type": "unchanged",
+    "old_range": [
+      0,
+      2
+    ],
+    "new_range": [
+      0,
+      2
+    ],
+    "content": [
+      "# **inetdesign°**",
+      "## **Data Processing Agreement**"
+    ]
+  },
+  {
+    "type": "modified",
+    "old_range": [
+      2,
+      4
+    ],
+    "new_range": [
+      2,
+      4
+    ],
+    "old_content": [
+      "**Data Processor:** INET-DESIGN ApS Vølundsvej 1 DK-8230 Åbyhøj CVR nr.: 27264298 Last updated:",
+      "March 21st 2018"
+    ],
+    "new_content": [
+      "**Data Processor:** INET-DESIGN ApS. Vølundsvej 1 DK-8230 Åbyhøj CVR nr.: 27264298 Last updated:",
+      "March 21st 2018 (v2.1)"
+    ],
+    "similarity": 0.9327731092436975,
+    "inline_diff": [
+      [
+        0,
+        "**Data Processor:** INET-DESIGN ApS"
+      ],
+      [
+        1,
+        "."
+      ],
+      [
+        0,
+        " Vølundsvej 1 DK-8230 Åbyhøj CVR nr.: 27264298 Last updated:\nMarch 21st 2018"
+      ],
+      [
+        1,
+        " (v2.1)"
+      ]
+    ],
+    "change_id": 1,
+    "classification": {
+      "decision": "Minor",
+      "justification": "The modification adds a period after 'ApS' and appends a version label '(v2.1)' to the 'Last updated' date, which is an administrative/versioning and minor punctuation change that does not alter rights or obligations."
+    }
+  },
+  {
+    "type": "unchanged",
+    "old_range": [
+      4,
+      33
+    ],
+    "new_range": [
+      4,
+      33
+    ],
+    "content": [
+      "### **Appendices for the Data Processing Agreement**",
+      "Appendix 1: Purpose & Main Agreements",
+      "Appendix 2: The obligations of the Data Controller",
+      "Appendix 3: Sub-processors",
+      "Appendix 4: Transfer of data to third countries",
+      "## **1. Introduction**",
+      "### **1.1**",
+      "This agreement regarding processing of personal data (the \"Data Processing Agreement\") regulates",
+      "INET- DESIGN ApS', Company registration no. 27264298 (the \"Data Processor\") processing of personal",
+      "data on behalf of the customer (the \"Data Controller\"). The Data Processing Agreement is attached as",
+      "an appendix to the Data Processor's terms and conditions for:",
+      "a) hosting",
+      "b) service and",
+      "c) deliveries and projects",
+      "(collectively called \"Main Agreements\"). In the Main Agreements, the parties have agreed the",
+      "conditions for the Data Processor's delivery of the services in question. The Main Agreements are",
+      "                                             defined in three different documents, that exist on www.inet design.dk. Furthermore, the Main",
+      "Agreements can be specified in and supplemented by another written agreement, for example",
+      "requirement specifications or an order confirmation which in that case has primacy for the Main",
+      "Agreements.",
+      "## **2. Legislation**",
+      "### **2.1**",
+      "The Data Processing Agreement shall ensure that the Data Processor complies with the applicable",
+      "data protection and privacy legislation (the \"Applicable Law\"), including in particular:",
+      "a) The European Parliament and the Council's Directive 95/46/EF of 24 October 1995 on the protection",
+      "of individuals with regard to the processing of personal data and on the free movement of such data",
+      "as implemented in Danish law with, among others, the Act on Processing of Personal Data (Act No. 429",
+      "of 31 May 2000). b) The European Parliament and the Council's Regulation 2016/679 of 27 April 2016",
+      "on the protection of natural persons with regard to the processing of personal data and on the free"
+    ]
+  },
+  {
+    "type": "modified",
+    "old_range": [
+      33,
+      34
+    ],
+    "new_range": [
+      33,
+      34
+    ],
+    "old_content": [
+      "movement of such data that entered into force on 24 May 2016 and will be applicable on 25 May 2018"
+    ],
+    "new_content": [
+      "movement of such data that entered into force on 24 May 2016 and will be applicable on 26 May 2018"
+    ],
+    "similarity": 0.9897959183673469,
+    "inline_diff": [
+      [
+        0,
+        "movement of such data that entered into force on 24 May 2016 and will be applicable on 2"
+      ],
+      [
+        -1,
+        "5"
+      ],
+      [
+        1,
+        "6"
+      ],
+      [
+        0,
+        " May 2018"
+      ]
+    ],
+    "change_id": 2,
+    "classification": {
+      "decision": "Critical",
+      "justification": "The change alters the effective applicability date by one day, which modifies a legal deadline/obligation and thus affects parties' compliance timing. This is a material legal change, so it is critical."
+    },
+    "impact_analysis": {
+      "legal_implications": "Postponing the stated GDPR applicability by one day shifts parties’ contractual compliance deadline and creates potential inconsistency with other provisions referencing 25 May 2018; this may briefly extend the window during which parties assert they are not bound to GDPR obligations and could risk regulatory or contractual disputes about the exact compliance start date. The change is unlikely to alter substantive obligations but may affect timing-sensitive duties (e.g., breach reporting, records, onboarding).",
+      "affected_party": "Data Controller and Processor",
+      "severity": "medium"
+    }
+  },
+  {
+    "type": "unchanged",
+    "old_range": [
+      34,
+      36
+    ],
+    "new_range": [
+      34,
+      36
+    ],
+    "content": [
+      "(\"GDPR\"). Irrespective of the general use and reference to GDPR in this Data Processing Agreement,",
+      "the parties are not obliged to comply with GDPR before 25 May 2018."
+    ]
+  },
+  {
+    "type": "modified",
+    "old_range": [
+      36,
+      37
+    ],
+    "new_range": [
+      36,
+      37
+    ],
+    "old_content": [
+      "INET-DESIGN ApS"
+    ],
+    "new_content": [
+      "INET-DESIGN ApS."
+    ],
+    "similarity": 0.9375,
+    "inline_diff": [
+      [
+        0,
+        "INET-DESIGN ApS"
+      ],
+      [
+        1,
+        "."
+      ]
+    ],
+    "change_id": 3,
+    "classification": {
+      "decision": "Formatting",
+      "justification": "The only change is the addition of a period after 'ApS', which is purely punctuation and does not alter rights or obligations."
+    }
+  },
+  {
+    "type": "unchanged",
+    "old_range": [
+      37,
+      49
+    ],
+    "new_range": [
+      37,
+      49
+    ],
+    "content": [
+      "2",
+      "## **3. Extent**",
+      "### **3.1**",
+      "The Data Processor is authorized to undertake processing of the Personal Data, which is defined in",
+      "appendix 1, on behalf of the Data Controller with regards to the conditions determined in the Data",
+      "Processing Agreement. 3.2 The Data Processor only process Personal Data due to documented",
+      "Instruction from the Data Controller (\"Instruction\").",
+      "## **4. Duration**",
+      "### **4.1**",
+      "The Data Processing Agreement shall remain in force until either a) the Main Agreement is ceased or b)",
+      "the Data Processing Agreement is terminated or cancelled.",
+      "## **5. The Data Processor's obligations**"
+    ]
+  },
+  {
+    "type": "modified",
+    "old_range": [
+      49,
+      50
+    ],
+    "new_range": [
+      49,
+      50
+    ],
+    "old_content": [
+      "### **5.1 Technical and organizational safety measures**"
+    ],
+    "new_content": [
+      "### **5.1 Technical and organisational safety measures**"
+    ],
+    "similarity": 0.9821428571428571,
+    "inline_diff": [
+      [
+        0,
+        "### **5.1 Technical and organi"
+      ],
+      [
+        -1,
+        "z"
+      ],
+      [
+        1,
+        "s"
+      ],
+      [
+        0,
+        "ational safety measures**"
+      ]
+    ],
+    "change_id": 4,
+    "classification": {
+      "decision": "Formatting",
+      "justification": "The change only alters the spelling of 'organizational' to 'organisational' (US to UK variant) without changing meaning, rights, or obligations, so it is a formatting/presentation change."
+    }
+  },
+  {
+    "type": "unchanged",
+    "old_range": [
+      50,
+      52
+    ],
+    "new_range": [
+      50,
+      52
+    ],
+    "content": [
+      "**5.1.1**",
+      "In connection to the Data Processor processing the Personal Data for the Data Controller, the Data"
+    ]
+  },
+  {
+    "type": "modified",
+    "old_range": [
+      52,
+      54
+    ],
+    "new_range": [
+      52,
+      53
+    ],
+    "old_content": [
+      "Processor have the responsibility to implement the appropriate a) technical- and b) organizational",
+      "safety measures."
+    ],
+    "new_content": [
+      "Processor may implement the appropriate a) technical- and b) organizational safety measures."
+    ],
+    "similarity": 0.7652173913043478,
+    "inline_diff": [
+      [
+        0,
+        "Processor "
+      ],
+      [
+        -1,
+        "have the responsibility to"
+      ],
+      [
+        1,
+        "may"
+      ],
+      [
+        0,
+        " implement the appropriate a) technical- and b) organizational"
+      ],
+      [
+        -1,
+        "\n"
+      ],
+      [
+        1,
+        " "
+      ],
+      [
+        0,
+        "safety measures."
+      ]
+    ],
+    "change_id": 5,
+    "classification": {
+      "decision": "Critical",
+      "justification": "The change replaces a clear obligation (“have the responsibility to implement”) with permissive language (“may implement”), removing a mandatory duty of the Processor and thus materially altering legal obligations and compliance requirements."
+    },
+    "impact_analysis": {
+      "legal_implications": "Changing mandatory language (“have the responsibility to implement”) to permissive (“may implement”) removes the Processor’s enforceable obligation to apply appropriate technical and organizational measures, increasing compliance risk for the Controller and undermining liability allocation; it may also breach data-protection law requirements that mandate processors to implement appropriate measures. This shift weakens contractual assurances and could impede regulatory compliance and incident response.",
+      "affected_party": "Processor",
+      "severity": "high"
+    }
+  },
+  {
+    "type": "unchanged",
+    "old_range": [
+      54,
+      60
+    ],
+    "new_range": [
+      53,
+      59
+    ],
+    "content": [
+      "**5.1.2**",
+      "The safety measures shall be implemented with regards to the current technical level, implementation",
+      "costs, and the concerned processing, with regards to character, extent, composition and purpose as",
+      "well as the risks of variable probability and gravity for physical people's rights and freedoms, together",
+      "with the types of Personal Data defined in appendix 1.",
+      "**5.1.3**"
+    ]
+  },
+  {
+    "type": "modified",
+    "old_range": [
+      60,
+      61
+    ],
+    "new_range": [
+      59,
+      60
+    ],
+    "old_content": [
+      "The parties agree that the technical and organizational safety measures, indicated in the Main"
+    ],
+    "new_content": [
+      "The parties agree that the technical and organisational safety measures, indicated in the Main"
+    ],
+    "similarity": 0.9893617021276596,
+    "inline_diff": [
+      [
+        0,
+        "The parties agree that the technical and organi"
+      ],
+      [
+        -1,
+        "z"
+      ],
+      [
+        1,
+        "s"
+      ],
+      [
+        0,
+        "ational safety measures, indicated in the Main"
+      ]
+    ],
+    "change_id": 6,
+    "classification": {
+      "decision": "Formatting",
+      "justification": "Change only alters the spelling of 'organizational' to the British variant 'organisational', which does not affect legal meaning or obligations. This is a formatting/presentation change."
+    }
+  },
+  {
+    "type": "unchanged",
+    "old_range": [
+      61,
+      76
+    ],
+    "new_range": [
+      60,
+      75
+    ],
+    "content": [
+      "Agreements, are sufficient in terms of ensuring a suitable level of safety. The Data Processor is",
+      "responsible for continuously ensuring that the implemented technical and organizational",
+      "measurements are sufficient in terms of ensuring a suitable level of safety.",
+      "### **5.2 Employer terms**",
+      "**5.2.1**",
+      "The Data Processor shall ensure that the employees processing Personal Data for the Data Processor,",
+      "have committed to confidentiality or are subjects to a suitable and statutory confidentiality.",
+      "INET-DESIGN ApS",
+      "3",
+      "**5.2.2**",
+      "The Data Processor shall ensure that the access to Personal Data is limited to the employees, to whom",
+      "it is necessary to process Personal Data to fulfill the Data Processor's obligation to the Data Controller.",
+      "**5.2.3**",
+      "The Data Processor shall ensure that the employees who process Personal Data for the Data",
+      "Controller, only process these in accordance with the Instruction."
+    ]
+  },
+  {
+    "type": "added",
+    "new_index": 75,
+    "content": "INET-DESIGN ApS",
+    "change_id": 7,
+    "classification": {
+      "decision": "Critical",
+      "justification": "Adding the company name INET-DESIGN ApS changes or specifies an involved party, which materially affects contractual identity and obligations. This is legally significant rather than merely stylistic or administrative."
+    },
+    "impact_analysis": {
+      "legal_implications": "Inserting the company name “INET-DESIGN ApS” formally identifies a contractual party, which can change who bears data-protection obligations, liabilities, and notice/contractual performance duties. If the named entity does not match the intended legal party (or is added inconsistently elsewhere), it can create ambiguity over responsibility, affect enforcement, and require corresponding updates to signatures, contact details and insurance/authority checks.",
+      "affected_party": "Data Controller and Processor",
+      "severity": "medium"
+    }
+  },
+  {
+    "type": "unchanged",
+    "old_range": [
+      76,
+      89
+    ],
+    "new_range": [
+      76,
+      89
+    ],
+    "content": [
+      "### **5.3 Compliance documentation**",
+      "**5.3.1**",
+      "Upon request, the Data Processor makes all information, necessary to document compliance of the",
+      "requirements in the Data Processing Agreement, available to the Data Controller and provides the",
+      "possibility for and contributes to revisions, comprising inspections conducted by the Data Controller or",
+      "another auditor, authorized by the Data Controller. A such request shall be replied within a reasonable",
+      "time frame.",
+      "**5.3.2**",
+      "With regard to item 5.3.1, the Data Processor shall immediately notify the Data Controller if an",
+      "instruction, according to the Data Processor's opinion inflicts with the Applicable Law or data",
+      "protection requirements in any other EU-court or national court.",
+      "### **5.4 Security breach**",
+      "**5.4.1**"
+    ]
+  },
+  {
+    "type": "modified",
+    "old_range": [
+      89,
+      91
+    ],
+    "new_range": [
+      89,
+      91
+    ],
+    "old_content": [
+      "The Data Processor shall notify the Data Controller without unnecessary delay, if the Data Processor is",
+      "aware of any breach to the Personal Data security."
+    ],
+    "new_content": [
+      "The Data Processor shall notify the Data Controller without unnecessary delay within 72 hours, if the",
+      "Data Processor is aware of any breach to the Personal Data security."
+    ],
+    "similarity": 0.8941176470588236,
+    "inline_diff": [
+      [
+        0,
+        "The Data Processor shall notify the Data Controller without unnecessary delay"
+      ],
+      [
+        1,
+        " within 72 hours"
+      ],
+      [
+        0,
+        ", if the"
+      ],
+      [
+        -1,
+        " "
+      ],
+      [
+        1,
+        "\n"
+      ],
+      [
+        0,
+        "Data Processor is"
+      ],
+      [
+        -1,
+        "\n"
+      ],
+      [
+        1,
+        " "
+      ],
+      [
+        0,
+        "aware of any breach to the Personal Data security."
+      ]
+    ],
+    "change_id": 8,
+    "classification": {
+      "decision": "Critical",
+      "justification": "Adding a 72-hour deadline changes the processor's notification obligation from a vague promptness standard to a specific timeframe, materially affecting parties' rights and compliance obligations. This is a substantive legal change concerning breach reporting timelines."
+    },
+    "impact_analysis": {
+      "legal_implications": "Imposes a fixed 72‑hour deadline on the processor to notify the controller, which both narrows the processor’s previously flexible “without unnecessary delay” duty and may create a timing conflict with the controller’s own GDPR 72‑hour reporting obligations (if notification is made late within that window). The change increases exposure for both parties: the processor faces stricter contractual breach for missing the deadline, while the controller may be disadvantaged if the deadline is treated as permissible delay rather than immediate notice needed to meet supervisory reporting. It also adds",
+      "affected_party": "Data Controller and Processor",
+      "severity": "medium"
+    }
+  },
+  {
+    "type": "unchanged",
+    "old_range": [
+      91,
+      106
+    ],
+    "new_range": [
+      91,
+      106
+    ],
+    "content": [
+      "**5.4.2**",
+      "The notification shall contain the factual circumstances of the breach the Personal Data security, its",
+      "effects and the decided and planned remedial measures.",
+      "### **5.5 Support**",
+      "**5.5.1**",
+      "With regard to the character of the processing, the Data Processor supports the Data Controller to the",
+      "extent possible, by helping with suitable technical and organizational measures, with fulfilling the Data",
+      "Controller's obligation to answer request of exercising the registered people's rights.",
+      "**5.5.2**",
+      "With regard to the character of the processing and the information available to the Data Processor,",
+      "the Data Processor supports the Data Controller by ensuring compliance to obligations concerning the",
+      "Data Controller's:",
+      "a) Processing security",
+      "b) Reporting of breaches to the Personal Data Security for controlling authorities",
+      "c) Notification of breaches to the Personal Data Security for registered people"
+    ]
+  },
+  {
+    "type": "modified",
+    "old_range": [
+      106,
+      107
+    ],
+    "new_range": [
+      106,
+      107
+    ],
+    "old_content": [
+      "d) Analysis of consequences concerning Data Protection"
+    ],
+    "new_content": [
+      "d) Analysis of consequences concerning Data Protection, and/or"
+    ],
+    "similarity": 0.8709677419354839,
+    "inline_diff": [
+      [
+        0,
+        "d) Analysis of consequences concerning Data Protection"
+      ],
+      [
+        1,
+        ", and/or"
+      ]
+    ],
+    "change_id": 9,
+    "classification": {
+      "decision": "Minor",
+      "justification": "Adding \", and/or\" introduces an allowance for combining item d) with other items (e.g., e.), which slightly changes the scope but does not materially alter obligations or legal rights; this is a minor, non-substantive modification to wording and permissiveness."
+    }
+  },
+  {
+    "type": "unchanged",
+    "old_range": [
+      107,
+      110
+    ],
+    "new_range": [
+      107,
+      110
+    ],
+    "content": [
+      "INET-DESIGN ApS",
+      "4",
+      "e) Precedent hearings"
+    ]
+  },
+  {
+    "type": "modified",
+    "old_range": [
+      110,
+      111
+    ],
+    "new_range": [
+      110,
+      111
+    ],
+    "old_content": [
+      "## **6. The obligations of the Data Controller**"
+    ],
+    "new_content": [
+      "## **6. The obligations of the DataController**"
+    ],
+    "similarity": 0.9791666666666666,
+    "inline_diff": [
+      [
+        0,
+        "## **6. The obligations of the Data"
+      ],
+      [
+        -1,
+        " "
+      ],
+      [
+        0,
+        "Controller**"
+      ]
+    ],
+    "change_id": 10,
+    "classification": {
+      "decision": "Formatting",
+      "justification": "Change only removes a space in the heading \"Data Controller\" -> \"DataController\", which affects presentation/spacing and does not alter legal rights or obligations."
+    }
+  },
+  {
+    "type": "unchanged",
+    "old_range": [
+      111,
+      115
+    ],
+    "new_range": [
+      111,
+      115
+    ],
+    "content": [
+      "### **6.1**",
+      "The Data Controller has the obligations indicated in appendix 2 and the Main Agreements.",
+      "## **7. Sub-Processors**",
+      "### **7.1**"
+    ]
+  },
+  {
+    "type": "modified",
+    "old_range": [
+      115,
+      118
+    ],
+    "new_range": [
+      115,
+      119
+    ],
+    "old_content": [
+      "The Data Processor is given general authorization to engage third-parties to process the Personal Data",
+      "for the Data Controller (\"Sub-Processors\") to the extent that is indicated in a) appendix 3 in this Data",
+      "Processing Agreement, or b) Instruction from the Data Controller."
+    ],
+    "new_content": [
+      "The Data Processor must obtain specific prior written authorization from the Data Controller before",
+      "engaging any third-parties to process the Personal Data for the Data Controller (\"Sub-Processors\"),",
+      "including those indicated in a) appendix 3 in this Data Processing Agreement, or b) any subsequent",
+      "Instruction from the Data Controller."
+    ],
+    "similarity": 0.6220238095238095,
+    "inline_diff": [
+      [
+        0,
+        "The Data Processor "
+      ],
+      [
+        -1,
+        "is given general authorization to engage"
+      ],
+      [
+        1,
+        "must obtain specific prior written authorization from the Data Controller before\nengaging any"
+      ],
+      [
+        0,
+        " third-parties to process the Personal Data"
+      ],
+      [
+        -1,
+        "\n"
+      ],
+      [
+        1,
+        " "
+      ],
+      [
+        0,
+        "for the Data Controller (\"Sub-Processors\")"
+      ],
+      [
+        -1,
+        " to the extent that is"
+      ],
+      [
+        1,
+        ",\nincluding those"
+      ],
+      [
+        0,
+        " indicated in a) appendix 3 in this Data"
+      ],
+      [
+        -1,
+        "\n"
+      ],
+      [
+        1,
+        " "
+      ],
+      [
+        0,
+        "Processing Agreement, or b) "
+      ],
+      [
+        1,
+        "any subsequent\n"
+      ],
+      [
+        0,
+        "Instruction from the Data Controller."
+      ]
+    ],
+    "change_id": 11,
+    "classification": {
+      "decision": "Critical",
+      "justification": "This change tightens the processor’s ability to engage sub-processors by replacing general authorization with a requirement for specific prior written consent, materially altering obligations and control over sub-processing."
+    },
+    "impact_analysis": {
+      "legal_implications": "The revision removes blanket/subsequent consent and requires the processor to get specific prior written approval for each sub-processor, increasing the controller’s control and imposing operational delays and administrative burdens on the processor. It may limit the processor’s ability to quickly engage cloud or specialist sub-processors, increase contractual negotiation and record-keeping, and could cause service disruptions if authorisation is withheld or delayed. The change also strengthens the controller’s compliance position and ability to vet sub-processors.",
+      "affected_party": "Processor",
+      "severity": "high"
+    }
+  },
+  {
+    "type": "unchanged",
+    "old_range": [
+      118,
+      123
+    ],
+    "new_range": [
+      119,
+      124
+    ],
+    "content": [
+      "### **7.2**",
+      "The Data Processor and Sub-Processor shall conclude a written sub-processor agreement. Such an",
+      "agreement shall at minimum provide the same data protection obligations as the ones applicable to",
+      "the Data Processor, including the obligations under this Data Processing Agreement.",
+      "### **7.3**"
+    ]
+  },
+  {
+    "type": "modified",
+    "old_range": [
+      123,
+      124
+    ],
+    "new_range": [
+      124,
+      125
+    ],
+    "old_content": [
+      "In additional cases, the Sub-Processor acts only on instruction from the Data Controller."
+    ],
+    "new_content": [
+      "In additional cases the Sub-Processor acts only on instruction, from the Data Controller."
+    ],
+    "similarity": 0.9887640449438202,
+    "inline_diff": [
+      [
+        0,
+        "In additional cases"
+      ],
+      [
+        -1,
+        ","
+      ],
+      [
+        0,
+        " the Sub-Processor acts only on instruction"
+      ],
+      [
+        1,
+        ","
+      ],
+      [
+        0,
+        " from the Data Controller."
+      ]
+    ],
+    "change_id": 12,
+    "classification": {
+      "decision": "Formatting",
+      "justification": "Change only moves a comma (altering punctuation) without changing legal meaning or obligations, so it's a formatting change."
+    }
+  },
+  {
+    "type": "unchanged",
+    "old_range": [
+      124,
+      130
+    ],
+    "new_range": [
+      125,
+      131
+    ],
+    "content": [
+      "### **7.4**",
+      "The Data Processor is accountable to the Data Controller for any Sub-Processor in the same way as for",
+      "its own actions and omissions.",
+      "## **8. Transfer to Third Countries and international organizations**",
+      "### **8.1**",
+      "The Data Processor can only transfer Personal Data for a country outside of the European Unions or"
+    ]
+  },
+  {
+    "type": "modified",
+    "old_range": [
+      130,
+      131
+    ],
+    "new_range": [
+      131,
+      132
+    ],
+    "old_content": [
+      "EØS (a \"Third Country\") or international organizations to the extent that is indicated in a) appendix 4"
+    ],
+    "new_content": [
+      "EØS (a \"Third Country\") or international organisations to the extent that is indicated in a) appendix 4"
+    ],
+    "similarity": 0.9902912621359223,
+    "inline_diff": [
+      [
+        0,
+        "EØS (a \"Third Country\") or international organi"
+      ],
+      [
+        -1,
+        "z"
+      ],
+      [
+        1,
+        "s"
+      ],
+      [
+        0,
+        "ations to the extent that is indicated in a) appendix 4"
+      ]
+    ],
+    "change_id": 13,
+    "classification": {
+      "decision": "Formatting",
+      "justification": "The only change is the British spelling of 'organizations' to 'organisations', which does not alter legal meaning or obligations and is purely presentational."
+    }
+  },
+  {
+    "type": "unchanged",
+    "old_range": [
+      131,
+      139
+    ],
+    "new_range": [
+      132,
+      140
+    ],
+    "content": [
+      "for this Data Processing Agreement or b) the Instructions from the Data Controller.",
+      "### **8.2**",
+      "The standard contract terms of the EU Commission form the foundation for transferring Personal Data",
+      "to a Third Country. Any effective regulations based on the applied transfer foundation have primacy",
+      "over the regulation in this Data Processing Agreement, yet alone in relation to the processing that",
+      "makes the transfer foundation necessary. Other processing is solely regulated by this Data Processing",
+      "Agreement.",
+      "### **8.3**"
+    ]
+  },
+  {
+    "type": "removed",
+    "old_index": 139,
+    "content": "INET-DESIGN ApS",
+    "change_id": 14,
+    "classification": {
+      "decision": "Critical",
+      "justification": "Removing the company name (INET-DESIGN ApS) alters identification of a contracting party or named entity in the agreement, which affects legal attribution and is therefore materially significant."
+    },
+    "impact_analysis": {
+      "legal_implications": "Removing the named legal entity creates ambiguity about which party is bound by the contract, undermining enforceability, attribution of obligations/liability, service of notices, and may impede regulatory or contractual claims. This can also complicate compliance obligations and defence in disputes. ",
+      "affected_party": "Data Controller and Processor",
+      "severity": "high"
+    }
+  },
+  {
+    "type": "unchanged",
+    "old_range": [
+      140,
+      150
+    ],
+    "new_range": [
+      140,
+      150
+    ],
+    "content": [
+      "5",
+      "## **9. Data processing outside of the Instruction**",
+      "### **9.1**",
+      "The Data Processor can process Personal Data outside of the Instruction in cases, where it is required",
+      "by the EU court or national court, to which the Data Processor is a subject.",
+      "### **9.2**",
+      "When processing Personal Data outside of the Instruction, the Data Processor shall notify the Data",
+      "Controller of the underlying cause. The notification shall happen before the processing is conducted",
+      "and shall contain a reference to the legal requirements that the processing is based on.",
+      "### **9.3**"
+    ]
+  },
+  {
+    "type": "modified",
+    "old_range": [
+      150,
+      151
+    ],
+    "new_range": [
+      150,
+      151
+    ],
+    "old_content": [
+      "The notification shall not happen in case notification conflicts with the EU court or the national court."
+    ],
+    "new_content": [
+      "The notification shall happen in case notification conflicts with the EU court or the national court."
+    ],
+    "similarity": 0.9619047619047619,
+    "inline_diff": [
+      [
+        0,
+        "The notification shall "
+      ],
+      [
+        -1,
+        "not "
+      ],
+      [
+        0,
+        "happen in case notification conflicts with the EU court or the national court."
+      ]
+    ],
+    "change_id": 15,
+    "classification": {
+      "decision": "Critical",
+      "justification": "This reverses an obligation entirely—changing from prohibiting notification when it conflicts with courts to requiring notification in such cases—altering material legal duties and compliance risk. Therefore it is a critical change."
+    },
+    "impact_analysis": {
+      "legal_implications": "Reversing the clause forces notification even when it conflicts with EU or national court orders, creating a direct risk of breaching judicial orders, contempt, criminal liability, or sanctions and undermining obligations to maintain confidentiality or comply with legal prohibitions on disclosure. It also increases compliance complexity and potential liability for the party required to notify.",
+      "affected_party": "Processor",
+      "severity": "high"
+    }
+  },
+  {
+    "type": "unchanged",
+    "old_range": [
+      151,
+      165
+    ],
+    "new_range": [
+      151,
+      165
+    ],
+    "content": [
+      "## **10. Remuneration and costs**",
+      "### **10.1**",
+      "The Data Controller shall remunerate the Data Processor based on time and resources spent to",
+      "perform the services according to the Data Processing Agreement on the request of the Data",
+      "Controller. The services can include, but are not limited to, changes in the instruction, assistance with",
+      "reporting breaches to the Personal Data security, transfer of information, support in case of audit,",
+      "cooperation with controlling authorities and support for request compliance from registered subjects.",
+      "### **10.2**",
+      "The Data Controller shall remunerate the Data Processor based on time and resources spent to",
+      "perform the services according to the Data Processing Agreement due to changes in the Data",
+      "Controllers circumstances. The services can include, but are not limited to, support in case of changes",
+      "due to new risk evaluations and consequence analyses as well as necessary changes due to the Data",
+      "Controller being obligated by other legislation than mentioned in item 2.",
+      "### **10.3**"
+    ]
+  },
+  {
+    "type": "modified",
+    "old_range": [
+      165,
+      167
+    ],
+    "new_range": [
+      165,
+      167
+    ],
+    "old_content": [
+      "The remuneration is calculated by the agreed hourly rates in the Main Agreement(s), and in case of no",
+      "agreement, the remuneration is based on the supplier's existing hourly rates."
+    ],
+    "new_content": [
+      "The remuneration is calculated by the agreed hourly rates (in DKK) in the Main Agreement(s), and in",
+      "case of no agreement, the remuneration is based on the supplier's existing hourly rates (in EUR)."
+    ],
+    "similarity": 0.8984771573604061,
+    "inline_diff": [
+      [
+        0,
+        "The remuneration is calculated by the agreed hourly rates"
+      ],
+      [
+        1,
+        " (in DKK)"
+      ],
+      [
+        0,
+        " in the Main Agreement(s), and in"
+      ],
+      [
+        -1,
+        " "
+      ],
+      [
+        1,
+        "\n"
+      ],
+      [
+        0,
+        "case of no"
+      ],
+      [
+        -1,
+        "\n"
+      ],
+      [
+        1,
+        " "
+      ],
+      [
+        0,
+        "agreement, the remuneration is based on the supplier's existing hourly rates"
+      ],
+      [
+        1,
+        " (in EUR)"
+      ],
+      [
+        0,
+        "."
+      ]
+    ],
+    "change_id": 16,
+    "classification": {
+      "decision": "Critical",
+      "justification": "Specifying different currencies for agreed rates (DKK) and fallback supplier rates (EUR) changes the payment currency and allocation of exchange risk, which materially affects obligations and payment terms. This is a substantive contractual change."
+    },
+    "impact_analysis": {
+      "legal_implications": "Specifying agreed rates in DKK but fallback supplier rates in EUR shifts exchange‑rate risk and may create ambiguity about which currency applies to a given invoice, impacting payment amounts, invoicing/VAT treatment and potential compliance with local currency laws. It raises the risk of disputes over conversion methodology, timing of exchange rates and who bears fluctuation costs, potentially requiring explicit conversion and invoicing rules.",
+      "affected_party": "Data Controller and Processor",
+      "severity": "medium"
+    }
+  },
+  {
+    "type": "unchanged",
+    "old_range": [
+      167,
+      168
+    ],
+    "new_range": [
+      167,
+      168
+    ],
+    "content": [
+      "### **10.4**"
+    ]
+  },
+  {
+    "type": "modified",
+    "old_range": [
+      168,
+      171
+    ],
+    "new_range": [
+      168,
+      171
+    ],
+    "old_content": [
+      "Notwithstanding the above, the Data Processor cannot claim remuneration for assistance or",
+      "implementation of changes to the extent such assistance or change is a direct consequence of the",
+      "Data Processor's own violation to this Data Processing Agreement."
+    ],
+    "new_content": [
+      "Notwithstanding the above, INETDESIGN cannot claim remuneration for assistance or implementation",
+      "of changes to the extent such assistance or change is a direct consequence of the Data Processor's",
+      "own violation to this Data Processing Agreement."
+    ],
+    "similarity": 0.9126984126984127,
+    "inline_diff": [
+      [
+        0,
+        "Notwithstanding the above, "
+      ],
+      [
+        -1,
+        "the Data Processor"
+      ],
+      [
+        1,
+        "INETDESIGN"
+      ],
+      [
+        0,
+        " cannot claim remuneration for assistance or"
+      ],
+      [
+        -1,
+        "\n"
+      ],
+      [
+        1,
+        " "
+      ],
+      [
+        0,
+        "implementation"
+      ],
+      [
+        -1,
+        " "
+      ],
+      [
+        1,
+        "\n"
+      ],
+      [
+        0,
+        "of changes to the extent such assistance or change is a direct consequence of the"
+      ],
+      [
+        -1,
+        "\n"
+      ],
+      [
+        1,
+        " "
+      ],
+      [
+        0,
+        "Data Processor's"
+      ],
+      [
+        -1,
+        " "
+      ],
+      [
+        1,
+        "\n"
+      ],
+      [
+        0,
+        "own violation to this Data Processing Agreement."
+      ]
+    ],
+    "change_id": 17,
+    "classification": {
+      "decision": "Critical",
+      "justification": "The change replaces a generic contractual party term (“the Data Processor”) with a specific named entity (“INETDESIGN”), altering who is barred from claiming remuneration and thus changing the scope of the obligation; this materially affects parties' rights/obligations."
+    },
+    "impact_analysis": {
+      "legal_implications": "By replacing the generic term “the Data Processor” with the specific entity “INETDESIGN”, the clause narrows the prohibition on claiming remuneration to that single named party; other processors (current or future) may retain the right to charge for remediation even when their breach caused the change. This reduces the Data Controller’s protection and shifts financial risk away from any processor other than INETDESIGN, potentially creating inconsistencies and enforcement difficulties across relationships. It may also create ambiguity about liability for subcontractors or successor processors.",
+      "affected_party": "Data Controller",
+      "severity": "medium"
+    }
+  },
+  {
+    "type": "unchanged",
+    "old_range": [
+      171,
+      175
+    ],
+    "new_range": [
+      171,
+      175
+    ],
+    "content": [
+      "## **11. Change of the instruction**",
+      "### **11.1**",
+      "Prior to changes in the Instruction, the parties shall to the extent possible discuss, and if possible agree",
+      "on, the implementation of the change, including time and cost of the implementation."
+    ]
+  },
+  {
+    "type": "modified",
+    "old_range": [
+      175,
+      176
+    ],
+    "new_range": [
+      175,
+      176
+    ],
+    "old_content": [
+      "INET-DESIGN ApS"
+    ],
+    "new_content": [
+      "INET-DESIGN ApS."
+    ],
+    "similarity": 0.9375,
+    "inline_diff": [
+      [
+        0,
+        "INET-DESIGN ApS"
+      ],
+      [
+        1,
+        "."
+      ]
+    ],
+    "change_id": 18,
+    "classification": {
+      "decision": "Formatting",
+      "justification": "The only alteration is the addition of a terminal period after the company name, which affects punctuation only and does not change legal rights, obligations, or meaning."
+    }
+  },
+  {
+    "type": "unchanged",
+    "old_range": [
+      176,
+      196
+    ],
+    "new_range": [
+      176,
+      196
+    ],
+    "content": [
+      "6",
+      "### **11.2**",
+      "To cases where no other agreement exists, following applies:",
+      "a) The Data Processor shall without any unwarranted delay initiate the implementation of changes to",
+      "the instruction and ensure that such changes are implemented without any unwarranted delay in",
+      "correlation to the character and extent of the changes. b) The indicated estimate for time and cost of",
+      "implementation shall be informed to the Data Controller without any unwarranted delay. c) The",
+      "changes of the instruction are not effective until the changes have been implemented, provided that",
+      "the implementation hereof is completed according to this item 11.2, and unless the Data Controller",
+      "explicitly notifies to deviate from this item. d) The Data Processors are exempted from responsibility",
+      "of failure to deliver services specified in the Main Agreement(s) to the extent (including time) that",
+      "delivery hereof will conflict with the changed instruction, or delivery in accordance with the changed",
+      "instruction is impossible. For example, this is the case when (i) where the changes due to technical,",
+      "practical or legal reasons cannot be implemented, (ii) the Data Controller explicitly notifies that the",
+      "changes shall be effective before the implementation is possible, or (iii) in the time span until the",
+      "parties get completed possible necessary changes of the Main Agreement(s) in accordance with the",
+      "change procedure in this Agreement.",
+      "## **12. Other conditions**",
+      "### **12.1 General**",
+      "**12.1.1**"
+    ]
+  },
+  {
+    "type": "modified",
+    "old_range": [
+      196,
+      200
+    ],
+    "new_range": [
+      196,
+      200
+    ],
+    "old_content": [
+      "The Main Agreement's regulation of breach of contract and the consequences hereof (item 12 in the",
+      "Main Agreement(s)) shall apply equally to this Data Processing Agreement as if this Data Processing",
+      "Agreement is an integrated part hereof. Only in cases where the Main Agreement(s) does not take",
+      "position, the conditions in this item 12 shall apply to this Data Processing Agreement."
+    ],
+    "new_content": [
+      "The Main Agreement's regulation of breach of contract and the consequences hereof (section 12 in",
+      "the Main Agreement(s)) shall apply equally to this Data Processing Agreement as if this Data",
+      "Processing Agreement is an integrated part hereof. Only in cases where the Main Agreement(s) does",
+      "not take position, the conditions in this item 12 shall apply to this Data Processing Agreement."
+    ],
+    "similarity": 0.9661458333333334,
+    "inline_diff": [
+      [
+        0,
+        "The Main Agreement's regulation of breach of contract and the consequences hereof ("
+      ],
+      [
+        -1,
+        "item"
+      ],
+      [
+        1,
+        "section"
+      ],
+      [
+        0,
+        " 12 in"
+      ],
+      [
+        -1,
+        " "
+      ],
+      [
+        1,
+        "\n"
+      ],
+      [
+        0,
+        "the"
+      ],
+      [
+        -1,
+        "\n"
+      ],
+      [
+        1,
+        " "
+      ],
+      [
+        0,
+        "Main Agreement(s)) shall apply equally to this Data Processing Agreement as if this Data"
+      ],
+      [
+        -1,
+        " "
+      ],
+      [
+        1,
+        "\n"
+      ],
+      [
+        0,
+        "Processing"
+      ],
+      [
+        -1,
+        "\n"
+      ],
+      [
+        1,
+        " "
+      ],
+      [
+        0,
+        "Agreement is an integrated part hereof. Only in cases where the Main Agreement(s) does"
+      ],
+      [
+        -1,
+        " "
+      ],
+      [
+        1,
+        "\n"
+      ],
+      [
+        0,
+        "not take"
+      ],
+      [
+        -1,
+        "\n"
+      ],
+      [
+        1,
+        " "
+      ],
+      [
+        0,
+        "position, the conditions in this item 12 shall apply to this Data Processing Agreement."
+      ]
+    ],
+    "change_id": 19,
+    "classification": {
+      "decision": "Minor",
+      "justification": "The change replaces 'item 12' with 'section 12'—a terminological clarification that does not alter rights or obligations (though it introduces slight inconsistency with the subsequent reference to 'item 12'). This is non-substantive and therefore minor."
+    }
+  },
+  {
+    "type": "unchanged",
+    "old_range": [
+      200,
+      207
+    ],
+    "new_range": [
+      200,
+      207
+    ],
+    "content": [
+      "### **12.2 Responsibility and limitation of liability**",
+      "**12.2.1**",
+      "The parties renounce every responsibility for indirect losses and collateral damage, comprising loss of",
+      "operation, loss of goodwill, loss of savings and revenue, inclusive of expenses to gain revenue, loss of",
+      "interests, loss of data, and compensation and remuneration for registered and third parties.",
+      "Each party's cumulated liability under this Data Processing Agreement is limited to the payments made",
+      "under the Main Agreement in the 12 months before the occurrence of the circumstances leading to a"
+    ]
+  },
+  {
+    "type": "modified",
+    "old_range": [
+      207,
+      212
+    ],
+    "new_range": [
+      207,
+      213
+    ],
+    "old_content": [
+      "breach of contract. If the Data Processing Agreement has not been in force for 12 months before the",
+      "occurrence of the circumstances leading to a breach of contract, the limited liability amount is the",
+      "agreed payment for the Main Services in the period in which the Data Processing Agreement have",
+      "been effective, divided by the number of month, the Data Processing Agreement have been effective,",
+      "and then multiplied by 12."
+    ],
+    "new_content": [
+      "breach of contract, except in cases of Personal Data breaches where liability shall be unlimited. If the",
+      "Data Processing Agreement has not been in force for 12 months before the occurrence of the",
+      "circumstances leading to a breach of contract, the limited liability amount is the agreed payment for",
+      "the Main Services in the period in which the Data Processing Agreement have been effective, divided",
+      "by the number of month, the Data Processing Agreement have been effective, and then multiplied by",
+      "12."
+    ],
+    "similarity": 0.8256513026052105,
+    "inline_diff": [
+      [
+        0,
+        "breach of contract"
+      ],
+      [
+        1,
+        ", except in cases of Personal Data breaches where liability shall be unlimited"
+      ],
+      [
+        0,
+        ". If the"
+      ],
+      [
+        -1,
+        " "
+      ],
+      [
+        1,
+        "\n"
+      ],
+      [
+        0,
+        "Data Processing Agreement has not been in force for 12 months before the"
+      ],
+      [
+        -1,
+        "\n"
+      ],
+      [
+        1,
+        " "
+      ],
+      [
+        0,
+        "occurrence of the"
+      ],
+      [
+        -1,
+        " "
+      ],
+      [
+        1,
+        "\n"
+      ],
+      [
+        0,
+        "circumstances leading to a breach of contract, the limited liability amount is the"
+      ],
+      [
+        -1,
+        "\n"
+      ],
+      [
+        1,
+        " "
+      ],
+      [
+        0,
+        "agreed payment for"
+      ],
+      [
+        -1,
+        " "
+      ],
+      [
+        1,
+        "\n"
+      ],
+      [
+        0,
+        "the Main Services in the period in which the Data Processing Agreement have"
+      ],
+      [
+        -1,
+        "\n"
+      ],
+      [
+        1,
+        " "
+      ],
+      [
+        0,
+        "been effective, divided"
+      ],
+      [
+        -1,
+        " "
+      ],
+      [
+        1,
+        "\n"
+      ],
+      [
+        0,
+        "by the number of month, the Data Processing Agreement have been effective,"
+      ],
+      [
+        -1,
+        "\n"
+      ],
+      [
+        1,
+        " "
+      ],
+      [
+        0,
+        "and then multiplied by"
+      ],
+      [
+        -1,
+        " "
+      ],
+      [
+        1,
+        "\n"
+      ],
+      [
+        0,
+        "12."
+      ]
+    ],
+    "change_id": 20,
+    "classification": {
+      "decision": "Critical",
+      "justification": "The new language carves out Personal Data breaches from the liability cap, making liability unlimited for such breaches. This materially changes parties' financial exposure and allocation of risk, so it is a critical legal change."
+    },
+    "impact_analysis": {
+      "legal_implications": "The change removes the liability cap for Personal Data breaches, exposing the party responsible for such breaches to unlimited damages (including regulatory fines and compensation). This significantly increases financial and regulatory exposure and may affect insurability and risk allocation under the DPA. It also creates stronger incentives for robust data security and incident handling but could make performance risk unacceptable for the capped party.",
+      "affected_party": "Processor",
+      "severity": "high"
+    }
+  },
+  {
+    "type": "unchanged",
+    "old_range": [
+      212,
+      220
+    ],
+    "new_range": [
+      213,
+      221
+    ],
+    "content": [
+      "**12.2.2**",
+      "INET-DESIGN ApS",
+      "7",
+      "**12.2.3**",
+      "The limitation of liability in this item 12.2 does not apply to the following:",
+      "a) Losses due to the other party's gross negligence or willful misconduct. b) Requirement of payment",
+      "due to Regulation (EU) 2016/679 article 82, $ 5 of the European Parliament and the Council as well as",
+      "remuneration due to the Liability and Compensation Act $ 26"
+    ]
+  },
+  {
+    "type": "added",
+    "new_index": 221,
+    "content": "c) Any breaches involving Personal Data, for which liability shall be unlimited",
+    "change_id": 21,
+    "classification": {
+      "decision": "Critical",
+      "justification": "The addition creates an explicit exception removing liability limits for breaches involving Personal Data, which materially changes parties' liability exposure and is legally significant."
+    },
+    "impact_analysis": {
+      "legal_implications": "The addition carves out personal-data breaches from any agreed liability caps, exposing the party processing personal data to unlimited financial liability for such incidents. This materially increases compliance and insurance risk, may alter negotiation of indemnities and could create mismatch with statutory limits or applicable law obligations. It also strengthens the controller’s protection but may deter processors or require higher pricing/insurance.",
+      "affected_party": "Processor",
+      "severity": "high"
+    }
+  },
+  {
+    "type": "unchanged",
+    "old_range": [
+      220,
+      263
+    ],
+    "new_range": [
+      222,
+      265
+    ],
+    "content": [
+      "### **12.3 Force Majeure**",
+      "**12.3.1**",
+      "The Data Processor cannot be held responsible for circumstances that commonly is defined as force",
+      "majeure, including but not limited to, war, riot, terror, rebellion, strike, conflagration, natural disaster,",
+      "currency restrictions, import or export restrictions, interruption of ordinary communication,",
+      "interruption of or failure in energy supply, public computer systems and communication systems, long",
+      "term illness of key employees, viruses, and in case subcontractors are subject to force majeure.",
+      "**12.3.2**",
+      "Force majeure can only be effective up to the number of work days that corresponds to the period of",
+      "the force majeure situation.",
+      "### **12.4 Confidentiality**",
+      "**12.4.1**",
+      "Information related to the content of this Data Processing Agreement, the underlying Main",
+      "Agreements, the other Party's business, which either in relation to the transfer for the receiving Party",
+      "indicated as confidential information, or which in its nature or in other ways shall be considered",
+      "confidential, must be processed confidentially and with at least the same care and discretion as the",
+      "Party's own confidential information. Data, including Personal Data, always constitute confidential",
+      "information.",
+      "**1.2.4.2**",
+      "The obligation of confidentiality does not apply information, which is or will be publicly accessible,",
+      "without this being due to a breach of a Party's confidentiality obligation or information that is already",
+      "in the receiving Party's possession without a corresponding confidentiality obligation or information",
+      "which has been independently developed by the receiving Party.",
+      "## **13. Termination**",
+      "### **13.1 Termination and cancellation**",
+      "**13.1.1**",
+      "The Data Processing Agreement can only be terminated or cancelled in accordance to the",
+      "requirements for terminations and cancellation in the Main Agreement(s).",
+      "**13.1.2**",
+      "Termination or cancellation of the Data Processing Agreement can only occur - and justifies ",
+      "concurrent",
+      "INET-DESIGN ApS",
+      "8",
+      "termination or cancellation of parts of the Main Agreement(s) concering processing of Personal Data",
+      "as a result of the Data Processing Agreement.",
+      "**13.1.3**",
+      "When the Main Agreement(s) cease, the Data Processing Agreement will have continued effect until",
+      "the Personal Data have been deleted or is returned as defined in item 13.2.3.",
+      "### **13.2 Effect of cease**",
+      "**13.2.1**",
+      "The Data Processor's authorization to process Personal Data on behalf of the Data Controller shall be",
+      "annulled at the termination of this Data Processing Agreement.",
+      "**13.2.2**"
+    ]
+  },
+  {
+    "type": "modified",
+    "old_range": [
+      263,
+      269
+    ],
+    "new_range": [
+      265,
+      270
+    ],
+    "old_content": [
+      "The Data Processor shall continue to process the Personal Data for up to three months after the",
+      "termination of the Data Processing Agreement to the extent it is necessary and required under the",
+      "Applicable Law. In the same period, the Data Processor is entitled to include the Personal Data in the",
+      "Data Processor's backup. The Data Processor's processing of the Data Controller's Personal Data in the",
+      "three months after the termination of this Data Processing Agreement shall be considered as being in",
+      "accordance with the Instruction."
+    ],
+    "new_content": [
+      "The Data Processor shall immediately delete all Personal Data upon termination of the Data",
+      "Processing Agreement, except for financial records containing Personal Data which must be retained",
+      "for seven years to comply with accounting regulations. The Data Processor is not entitled to include",
+      "the Personal Data in the Data Processor's backup beyond what is strictly required for financial record",
+      "keeping."
+    ],
+    "similarity": 0.2926829268292683,
+    "inline_diff": [
+      [
+        0,
+        "The Data Processor shall "
+      ],
+      [
+        -1,
+        "continue to process the Personal Data for up to three months after the\n"
+      ],
+      [
+        1,
+        "immediately delete all Personal Data upon "
+      ],
+      [
+        0,
+        "termination of the Data"
+      ],
+      [
+        -1,
+        " "
+      ],
+      [
+        1,
+        "\n"
+      ],
+      [
+        0,
+        "Processing Agreement"
+      ],
+      [
+        -1,
+        " to the extent it is necessary and required under the\nApplicable Law. In the same period, t"
+      ],
+      [
+        1,
+        ", except for financial records containing Personal Data which must be retained\nfor seven years to comply with accounting regulations. T"
+      ],
+      [
+        0,
+        "he Data Processor is "
+      ],
+      [
+        1,
+        "not "
+      ],
+      [
+        0,
+        "entitled to include"
+      ],
+      [
+        -1,
+        " "
+      ],
+      [
+        1,
+        "\n"
+      ],
+      [
+        0,
+        "the Personal Data in the"
+      ],
+      [
+        -1,
+        "\n"
+      ],
+      [
+        1,
+        " "
+      ],
+      [
+        0,
+        "Data Processor's backup"
+      ],
+      [
+        -1,
+        ". The Data Processor's processing of the Data Controller's Personal Data in the\nthree months after the termination of this Data Processing Agreement shall be considered as being in\naccordance with the Instruction"
+      ],
+      [
+        1,
+        " beyond what is strictly required for financial record\nkeeping"
+      ],
+      [
+        0,
+        "."
+      ]
+    ],
+    "change_id": 22,
+    "classification": {
+      "decision": "Critical",
+      "justification": "This materially changes data retention and backup rights—removing the processor's 3-month post-termination processing window and imposing immediate deletion with a separate 7-year exception for financial records—altering legal obligations and compliance scope."
+    },
+    "impact_analysis": {
+      "legal_implications": "Requiring immediate deletion except for a seven‑year financial exception removes the processor’s previously permitted short post‑termination processing window and tightens backup retention, which may (i) impede lawful transitional activities the Controller expects, (ii) increase the Processor’s risk if Applicable Law requires longer retention for other categories, and (iii) create disputes about what is “strictly required” for financial records. The change shifts practical compliance burdens and may necessitate operational and clause updates to reconcile with statutory retention duties.",
+      "affected_party": "Processor",
+      "severity": "medium"
+    }
+  },
+  {
+    "type": "unchanged",
+    "old_range": [
+      269,
+      279
+    ],
+    "new_range": [
+      270,
+      280
+    ],
+    "content": [
+      "**13.2.3**",
+      "At the termination of this Data Processing Agreement, the Data Processor and its Sub-Processors shall",
+      "return the Personal Data processed under this Data Processing Agreement to the Data Controller,",
+      "provided that the Data Controller is not already in possession of the Personal Data. The Data Processor",
+      "is hereafter obliged to delete all the Personal Data and provide documentation for such deletion to",
+      "the Data Controller.",
+      "**13.2.4**",
+      "The Data Processor is entitled to anonymize the Personal Data in a manner that they cannot",
+      "deanonymized later, and hereafter use the anonymous data for own purpose during the period of this",
+      "Data Processing Agreement and in the future."
+    ]
+  },
+  {
+    "type": "modified",
+    "old_range": [
+      279,
+      280
+    ],
+    "new_range": [
+      280,
+      281
+    ],
+    "old_content": [
+      "**13.2.4**"
+    ],
+    "new_content": [
+      "**13.2.5**"
+    ],
+    "similarity": 0.9,
+    "inline_diff": [
+      [
+        0,
+        "**13.2."
+      ],
+      [
+        -1,
+        "4"
+      ],
+      [
+        1,
+        "5"
+      ],
+      [
+        0,
+        "**"
+      ]
+    ],
+    "change_id": 23,
+    "classification": {
+      "decision": "Critical",
+      "justification": "Changing the referenced clause from 13.2.4 to 13.2.5 alters which specific contractual provision remains effective after expiry, potentially changing ongoing rights or obligations; this is a materially significant legal change."
+    },
+    "impact_analysis": {
+      "legal_implications": "Replacing the referenced clause shifts which specific post‑termination obligations survive expiry (e.g., data return, deletion, confidentiality, audits or liability provisions). This may materially change ongoing duties and liabilities for one or both parties and create uncertainty about compliance and data subject rights after termination.",
+      "affected_party": "Data Controller and Processor",
+      "severity": "high"
+    }
+  },
+  {
+    "type": "unchanged",
+    "old_range": [
+      280,
+      290
+    ],
+    "new_range": [
+      281,
+      291
+    ],
+    "content": [
+      "With no regard to the expiry of the Data Processing Agreement, the items 12.2, 12.4, 13.2.2, 13.2.4 and",
+      "14 of the Agreement shall be continuously effective after the expiry of the Data Processing",
+      "Agreement.",
+      "## **14. Dispute resolution**",
+      "### **14.1**",
+      "The Data Processing Agreement is subject to Danish Law except for a) regulations leading to the",
+      "application of any other law than Danish Law and b) the UN convention on Contracts for the",
+      "international Sale of Goods (CISG).",
+      "### **14.2**",
+      "If the parties cannot reach resolution through negotiation, the parties are entitled to demand"
+    ]
+  },
+  {
+    "type": "modified",
+    "old_range": [
+      290,
+      293
+    ],
+    "new_range": [
+      291,
+      292
+    ],
+    "old_content": [
+      "arbitration in the dispute at a court of law in the Danish court of justice. The court in Aarhus has been",
+      "chosen as jurisdiction. However, the referral regulations of the procedural law for the High Court, the",
+      "Maritime Law and the Commercial Law shall be applied."
+    ],
+    "new_content": [
+      "arbitration in the dispute at any court of competent jurisdiction."
+    ],
+    "similarity": 0.12167300380228137,
+    "inline_diff": [
+      [
+        0,
+        "arbitration in the dispute at a"
+      ],
+      [
+        -1,
+        " court of law in the Danish court of justice. The court in Aarhus has been\nchosen as jurisdiction. However, the referral regulations of the procedural law for the High Court, the\nMaritime Law and the Commercial Law shall be applied"
+      ],
+      [
+        1,
+        "ny court of competent jurisdiction"
+      ],
+      [
+        0,
+        "."
+      ]
+    ],
+    "change_id": 24,
+    "classification": {
+      "decision": "Critical",
+      "justification": "The change removes a specific designated forum (Aarhus, Danish courts and related procedural rules) and replaces it with a broad, non-specific forum clause (“any court of competent jurisdiction”), which materially alters jurisdictional rights and dispute resolution certainty. This is a substantive legal change affecting enforcement and choice of law/method."
+    },
+    "impact_analysis": {
+      "legal_implications": "Replacing a specific Danish forum (Aarhus courts and Danish procedural rules) with “any court of competent jurisdiction” removes predictability and certainty about venue and applicable procedural rules, increasing risk of forum-shopping, transnational litigation and enforcement difficulties (service, evidence, language). It may also indirectly affect applicable law and the ease of obtaining relief or enforcement of judgments. Parties’ costs and legal strategy will be materially impacted.",
+      "affected_party": "Data Controller and Processor",
+      "severity": "medium"
+    }
+  },
+  {
+    "type": "unchanged",
+    "old_range": [
+      293,
+      308
+    ],
+    "new_range": [
+      292,
+      307
+    ],
+    "content": [
+      "INET-DESIGN ApS",
+      "9",
+      "## **15. Primacy**",
+      "### **15.1**",
+      "Providing that there is a conflict between this Data Processing Agreement and the Main Agreement(s),",
+      "this Data Processing Agreement has primacy unless else anything can be derived from the Data",
+      "Processing Agreement.",
+      "INET-DESIGN ApS",
+      "10",
+      "# **Appendix 1: Purpose & Main Agreement(s)**",
+      "## **1.1**",
+      "The purpose of the processing as a result of this Data Processing Agreement is to deliver services in",
+      "correlation to one or more of the Main Agreements that consist of the following: by the Data",
+      "Controller's instruction, the Data Processor develops, hosts, markets and/or supports one or more",
+      "websites or e- business solutions for the Data Controller cf. the Data Processor's standard terms which"
+    ]
+  },
+  {
+    "type": "modified",
+    "old_range": [
+      308,
+      309
+    ],
+    "new_range": [
+      307,
+      308
+    ],
+    "old_content": [
+      "[-](http://www.inet-design.dk/)\nare found on www.inet design.dk and are effective as the Main Agreements' basis of agreement."
+    ],
+    "new_content": [
+      "                 are found on www.inet design.dk and are effective as the Main Agreements' basis of agreement."
+    ],
+    "similarity": 0.744,
+    "inline_diff": [
+      [
+        -1,
+        "[-](http://www.inet-design.dk/)\n"
+      ],
+      [
+        1,
+        "                 "
+      ],
+      [
+        0,
+        "are found on www.inet design.dk and are effective as the Main Agreements' basis of agreement."
+      ]
+    ],
+    "change_id": 25,
+    "classification": {
+      "decision": "Formatting",
+      "justification": "The change removes a stray hyperlink/markdown artifact and does not alter the contractual language or legal obligations; it is purely presentation cleanup."
+    }
+  },
+  {
+    "type": "unchanged",
+    "old_range": [
+      309,
+      314
+    ],
+    "new_range": [
+      308,
+      313
+    ],
+    "content": [
+      "## **2. Personal Data**",
+      "### **2.1**",
+      "Types of Personal Data that are processed in relation to the delivery of services specified in one or",
+      "more of the Main Agreements:",
+      "a) Ordinary Personal Data, including name, surname, address, gender, age, email address, phone"
+    ]
+  },
+  {
+    "type": "modified",
+    "old_range": [
+      314,
+      315
+    ],
+    "new_range": [
+      313,
+      314
+    ],
+    "old_content": [
+      "numbers and date of birth. b) Transaction information in regard to online payment as well as purchase"
+    ],
+    "new_content": [
+      "numbers, and date of birth. b) Transaction information in regard to online payment as well as purchase"
+    ],
+    "similarity": 0.9901960784313726,
+    "inline_diff": [
+      [
+        0,
+        "numbers"
+      ],
+      [
+        1,
+        ","
+      ],
+      [
+        0,
+        " and date of birth. b) Transaction information in regard to online payment as well as purchase"
+      ]
+    ],
+    "change_id": 26,
+    "classification": {
+      "decision": "Formatting",
+      "justification": "The change only inserts a comma between words, which does not alter meaning or legal obligations; it is purely punctuation/formatting."
+    }
+  },
+  {
+    "type": "unchanged",
+    "old_range": [
+      315,
+      325
+    ],
+    "new_range": [
+      314,
+      324
+    ],
+    "content": [
+      "history which can be traces back to individuals. c) Personal Data stated in relation to the use of internet",
+      "applications typically for static purposes and focused marketing campaigns according to the",
+      "Instruction.",
+      "### **2.2**",
+      "The category of registered identified or identifiable physical persons encompassed by the Data",
+      "Processing Agreement:",
+      "a) The Data Controller (client)",
+      "b) The Data Controller's clients",
+      "c) The Data Controller's employees",
+      "d) The Data Controller's additional suppliers (third party suppliers)"
+    ]
+  },
+  {
+    "type": "modified",
+    "old_range": [
+      325,
+      326
+    ],
+    "new_range": [
+      324,
+      325
+    ],
+    "old_content": [
+      "INET-DESIGN ApS"
+    ],
+    "new_content": [
+      "INET-DESIGN"
+    ],
+    "similarity": 0.7333333333333333,
+    "inline_diff": [
+      [
+        0,
+        "INET-DESIGN"
+      ],
+      [
+        -1,
+        " ApS"
+      ]
+    ],
+    "change_id": 27,
+    "classification": {
+      "decision": "Critical",
+      "justification": "Removing the legal suffix 'ApS' changes the formal name/identity of the contracting party, which can alter legal liability and enforceability; thus it materially affects the contract. This is a critical legal change."
+    },
+    "impact_analysis": {
+      "legal_implications": "Removing the corporate suffix alters the precise legal identity of the contracting party, creating ambiguity over which legal entity is bound (and liable) under the agreement. This can undermine enforceability, complicate service of process, and increase risk of disputes about who bears controller obligations and liabilities. It may also affect registration, tax and corporate representation checks required for compliance.",
+      "affected_party": "Data Controller",
+      "severity": "high"
+    }
+  },
+  {
+    "type": "unchanged",
+    "old_range": [
+      326,
+      353
+    ],
+    "new_range": [
+      325,
+      352
+    ],
+    "content": [
+      "11",
+      "# **Appendix 2: The obligations of the Data Controller**",
+      "## **1. Obligations**",
+      "### **1.1**",
+      "The Data Controller have the following obligations:",
+      "**1.1.1**",
+      "The Data Controller is responsible for abiding by the, at any time, existing Personal Data legislation in",
+      "terms of the Personal Data, with which the Data Processor is entrusted. The Data Controller is hereby",
+      "namely responsible for the following: The statement in appendix 1 is exhaustive, and the Data",
+      "Processor can act subsequently, amongst other things in terms of establishing the necessary security",
+      "precautions. The Data Controller has the necessary permissions to process and to leave it to the Data",
+      "Processor to process the Personal Data, processed in relation to delivery of services cf. the Main",
+      "Agreements. The submitted Instruction, in accordance to which the Data Processor shall process",
+      "Personal Data on behalf of the Data Controller, is legal.",
+      "**1.1.2**",
+      "The Data Controller notifies the Data Processor in writing in case of possible completed analyses of",
+      "consequences, relevant to the given processing activities, and the Data Controller provides the Data",
+      "Processor with the necessary insight to the analysis with regard to the Data Processor fulfilling his/her",
+      "obligations in relation to the Data Processing Agreement.",
+      "**1.1.3**",
+      "The Data Controller also notifies the Data Processor about circumstances relevant to the Data",
+      "Processor's execution of his/her obligations in relation to the Data Processing Agreement, including",
+      "the Data Controller's ongoing risk evaluation, to the extent relevant to the Data Processor.",
+      "**1.1.4**",
+      "The Data Controller also notifies the Data Processor if the at all times existing Privacy Act in relation to",
+      "the Personal Data that the Data Processor is entrusted with for processing, includes more than law n°",
+      "429 of 31/05/2000 with later changes on the processing of Personal Data (the Privacy Act) or the"
+    ]
+  },
+  {
+    "type": "modified",
+    "old_range": [
+      353,
+      354
+    ],
+    "new_range": [
+      352,
+      353
+    ],
+    "old_content": [
+      "European Parliament and the Counsil's Order (EU) 2016/679 (incl. subsequent adjustments of danish"
+    ],
+    "new_content": [
+      "European Parliament and the Council's Order (EU) 2016/679 (incl. subsequent adjustments of danish"
+    ],
+    "similarity": 0.9896907216494846,
+    "inline_diff": [
+      [
+        0,
+        "European Parliament and the Coun"
+      ],
+      [
+        -1,
+        "s"
+      ],
+      [
+        1,
+        "c"
+      ],
+      [
+        0,
+        "il's Order (EU) 2016/679 (incl. subsequent adjustments of danish"
+      ]
+    ],
+    "change_id": 28,
+    "classification": {
+      "decision": "Formatting",
+      "justification": "The change corrects a misspelling of 'Council's' without altering legal meaning, rights, or obligations; it's a non-substantive typographical fix."
+    }
+  },
+  {
+    "type": "unchanged",
+    "old_range": [
+      354,
+      378
+    ],
+    "new_range": [
+      353,
+      377
+    ],
+    "content": [
+      "law, which occur as a consequent of this Order).",
+      "INET-DESIGN ApS",
+      "12",
+      "# **Appendix 3: Sub-processors**",
+      "## **1. General**",
+      "### **1.1**",
+      "The following Sub-Processors shall be considered approved by the data Controller at the time of",
+      "entering into this Data Processing Agreement:",
+      "Google LLC 1600 Amphitheatre Parkway Mountain View CA 94043, United States",
+      "Facebook Ireland Ltd. Hanover Reach, 5-7 Hanover Quay Dublin 2, Irland",
+      "Zendesk, Inc. 1019 Market St. San Francisco CA 94103, United States",
+      "Instagram Inc. 181 South Park Street, Suite 2 San Francisco CA 94107, United States",
+      "Asana Inc, 1550 Bryant Street San Francisco CA 94103, United States",
+      "Dinero Regnskab ApS Vesterbrogade 1L, 6. sal 1620 København V CVR. nr. 34731543",
+      "INET-DESIGN ApS",
+      "13",
+      "Revisionsfirmaet Georg Mathiasen I/S Vølundsvej 6, Torvet 8230 Åbyhøj CVR. nr. 72430816",
+      "DanDomain A/S Normansvej 1 8920 Randers NV CVR. nr. 25476255",
+      "HubSpot Inc. 25 First Street, 2nd Floor Cambridge, MA 02141, United States",
+      "Dropbox Inc. 185 Berry Street Suite 400 San Francisco CA 94107, United States",
+      "CYBOT A/S Havnegade 39 1058 København K CVR. nr. 34624607",
+      "The Rocket Science Group, LLC (Mailchimp) 675 Ponce de Leon Avenue NE Suite 5000 Atlanta GA",
+      "30308, United States",
+      "### **1.2**"
+    ]
+  },
+  {
+    "type": "modified",
+    "old_range": [
+      378,
+      383
+    ],
+    "new_range": [
+      377,
+      383
+    ],
+    "old_content": [
+      "Generally, the Data Controller accepts that the Data Processor can use other Sub-Processors in the",
+      "future, if these abide by the guidelines stated in the Data Processing Agreement and moreover, meet",
+      "the legislation, comprising the General Data Protection Regulation (GDPR). The Data Processing",
+      "Agreement as appendix, will be updated with an extension of the list in the item 1.1. above (appendix",
+      "3), provided that the Data Processor will make use of new Sub-Processors."
+    ],
+    "new_content": [
+      "The Data Controller does not provide general authorization for the Data Processor to use other Sub",
+      "Processors in the future. Each new Sub-Processor requires specific prior written consent from the Data",
+      "Controller, even if these abide by the guidelines stated in the Data Processing Agreement and",
+      "moreover, meet the legislation, comprising the General Data Protection Regulation (GDPR). The Data",
+      "Processing Agreement as appendix, will be updated with an extension of the list in the item 1.1. above",
+      "(appendix 3), provided that the Data Processor will make use of new Sub-Processors."
+    ],
+    "similarity": 0.7452667814113597,
+    "inline_diff": [
+      [
+        -1,
+        "Generally, t"
+      ],
+      [
+        1,
+        "T"
+      ],
+      [
+        0,
+        "he Data Controller "
+      ],
+      [
+        -1,
+        "accepts that"
+      ],
+      [
+        1,
+        "does not provide general authorization for"
+      ],
+      [
+        0,
+        " the Data Processor "
+      ],
+      [
+        -1,
+        "can"
+      ],
+      [
+        1,
+        "to"
+      ],
+      [
+        0,
+        " use other Sub"
+      ],
+      [
+        -1,
+        "-"
+      ],
+      [
+        1,
+        "\n"
+      ],
+      [
+        0,
+        "Processors in the"
+      ],
+      [
+        -1,
+        "\n"
+      ],
+      [
+        1,
+        " "
+      ],
+      [
+        0,
+        "future"
+      ],
+      [
+        -1,
+        ","
+      ],
+      [
+        1,
+        ". Each new Sub-Processor requires specific prior written consent from the Data\nController, even"
+      ],
+      [
+        0,
+        " if these abide by the guidelines stated in the Data Processing Agreement and"
+      ],
+      [
+        -1,
+        " "
+      ],
+      [
+        1,
+        "\n"
+      ],
+      [
+        0,
+        "moreover, meet"
+      ],
+      [
+        -1,
+        "\n"
+      ],
+      [
+        1,
+        " "
+      ],
+      [
+        0,
+        "the legislation, comprising the General Data Protection Regulation (GDPR). The Data"
+      ],
+      [
+        -1,
+        " "
+      ],
+      [
+        1,
+        "\n"
+      ],
+      [
+        0,
+        "Processing"
+      ],
+      [
+        -1,
+        "\n"
+      ],
+      [
+        1,
+        " "
+      ],
+      [
+        0,
+        "Agreement as appendix, will be updated with an extension of the list in the item 1.1. above"
+      ],
+      [
+        -1,
+        " "
+      ],
+      [
+        1,
+        "\n"
+      ],
+      [
+        0,
+        "(appendix"
+      ],
+      [
+        -1,
+        "\n"
+      ],
+      [
+        1,
+        " "
+      ],
+      [
+        0,
+        "3), provided that the Data Processor will make use of new Sub-Processors."
+      ]
+    ],
+    "change_id": 29,
+    "classification": {
+      "decision": "Critical",
+      "justification": "This change removes blanket authorization for the processor to engage sub-processors and instead requires specific prior written consent for each new sub-processor, which materially alters the parties' rights and operational flexibility. It is a substantive shift in obligations and approval process, making it a critical legal change."
+    },
+    "impact_analysis": {
+      "legal_implications": "Requiring specific prior written consent for each new sub-processor removes the processor’s blanket authorization and substantially increases the controller’s control over subcontracting, potentially causing operational delays, added contract/admin burden and risk of breach if processor engages sub-processors without consent. It also strengthens the controller’s ability to enforce data protection choices and objections. This may necessitate renegotiation of SLAs and processes for vetting and approval.",
+      "affected_party": "Processor",
+      "severity": "high"
+    }
+  },
+  {
+    "type": "unchanged",
+    "old_range": [
+      383,
+      400
+    ],
+    "new_range": [
+      383,
+      400
+    ],
+    "content": [
+      "### **1.3**",
+      "The Data Controller can have valid objections towards a Sub-Processor to the extent that the reason is",
+      "substantiated.",
+      "INET-DESIGN ApS",
+      "14",
+      "# **Appendix 4: Transfer of data to third countries**",
+      "## **1. General**",
+      "### **1.1**",
+      "The Data Controller hereby accepts that the Data Processor can transfer Personal Data to the",
+      "following company, situated in a third country:",
+      "Inet Design ApS Danska, Predstavnistvo u BiH Milana Preloga 12 71000 Sarajevo ID: 4201769620001",
+      "### **1.2**",
+      "Personal Data cannot, other than that, be subject to Data Processing by the Data Processor or a Sub",
+      "processor in a third country or in an international organization, unless the Data Controller gives",
+      "specific permission for this.",
+      "INET-DESIGN ApS",
+      "15"
+    ]
+  }
+]
