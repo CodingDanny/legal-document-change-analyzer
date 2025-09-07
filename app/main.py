@@ -45,3 +45,8 @@ async def analyze_pdf_diff(
     
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.get("/")
+async def root():
+    return {"message": "Legal Document Change Analyzer API", "endpoint": "/pdf-diff"}
