@@ -36,6 +36,7 @@ Provide an evaluation in the following JSON format:
 "decision": "Critical" | "Minor" | "Formatting"
 }
 - `justification`: Brief evaluation of the change w.r.t. to the categories, `decision`: The classification into Critical, Minor or Formatting.
+- Do not easily give the highest category 'Critical', i.e. only categorize a change this way when it REALLY alters material rights, obligations, or legal meaning
 - Provide only the required JSON structure; do not include any text outside the JSON.
 
 Examples:

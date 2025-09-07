@@ -54,7 +54,7 @@
     "change_id": 1,
     "classification": {
       "decision": "Minor",
-      "justification": "The modification adds a period after 'ApS' and appends a version label '(v2.1)' to the 'Last updated' date, which is an administrative/versioning and minor punctuation change that does not alter rights or obligations."
+      "justification": "The change adds a period after the company name and appends a version identifier (v2.1) to the last updated date, which is an administrative/versioning update that does not alter contractual rights or obligations."
     }
   },
   {
@@ -137,12 +137,12 @@
     "change_id": 2,
     "classification": {
       "decision": "Critical",
-      "justification": "The change alters the effective applicability date by one day, which modifies a legal deadline/obligation and thus affects parties' compliance timing. This is a material legal change, so it is critical."
+      "justification": "The change alters the effective applicability date of GDPR-related obligations from 25 May 2018 to 26 May 2018, which modifies when parties become legally obliged and thus affects their rights/obligations. This is a substantive timing change and therefore critical."
     },
     "impact_analysis": {
-      "legal_implications": "Postponing the stated GDPR applicability by one day shifts parties’ contractual compliance deadline and creates potential inconsistency with other provisions referencing 25 May 2018; this may briefly extend the window during which parties assert they are not bound to GDPR obligations and could risk regulatory or contractual disputes about the exact compliance start date. The change is unlikely to alter substantive obligations but may affect timing-sensitive duties (e.g., breach reporting, records, onboarding).",
+      "legal_implications": "Shifting the contractual applicability date by one day could create a one‑day gap where the parties might claim they were not contractually obliged to comply with GDPR obligations, exposing both to regulatory/compliance risk if relied upon; however, it cannot override statutory GDPR effective date and thus mainly creates internal contractual misalignment rather than altering legal duties under law.",
       "affected_party": "Data Controller and Processor",
-      "severity": "medium"
+      "severity": "low"
     }
   },
   {
@@ -190,7 +190,7 @@
     "change_id": 3,
     "classification": {
       "decision": "Formatting",
-      "justification": "The only change is the addition of a period after 'ApS', which is purely punctuation and does not alter rights or obligations."
+      "justification": "The only alteration is the addition of a terminal period to the company name, which affects punctuation only and does not change any rights, obligations, or legal meaning."
     }
   },
   {
@@ -256,7 +256,7 @@
     "change_id": 4,
     "classification": {
       "decision": "Formatting",
-      "justification": "The change only alters the spelling of 'organizational' to 'organisational' (US to UK variant) without changing meaning, rights, or obligations, so it is a formatting/presentation change."
+      "justification": "This change alters only the spelling of 'organizational' to British 'organisational' in the heading and does not affect legal rights, obligations, or meaning. It is a presentation/language adjustment. "
     }
   },
   {
@@ -325,11 +325,11 @@
     "change_id": 5,
     "classification": {
       "decision": "Critical",
-      "justification": "The change replaces a clear obligation (“have the responsibility to implement”) with permissive language (“may implement”), removing a mandatory duty of the Processor and thus materially altering legal obligations and compliance requirements."
+      "justification": "Changing 'have the responsibility to implement' to 'may implement' removes a mandatory obligation and makes implementation discretionary, materially reducing the Processor's legal duties and affecting compliance. This is a substantive rights/obligations alteration."
     },
     "impact_analysis": {
-      "legal_implications": "Changing mandatory language (“have the responsibility to implement”) to permissive (“may implement”) removes the Processor’s enforceable obligation to apply appropriate technical and organizational measures, increasing compliance risk for the Controller and undermining liability allocation; it may also breach data-protection law requirements that mandate processors to implement appropriate measures. This shift weakens contractual assurances and could impede regulatory compliance and incident response.",
-      "affected_party": "Processor",
+      "legal_implications": "Converting a mandatory duty into permissive language removes the processor’s contractual obligation to deploy technical and organizational measures, materially increasing the controller’s compliance and breach-risk exposure and undermining enforceability of security requirements; regulators may view this as non-compliant with GDPR expectations for binding processor obligations. This also creates ambiguity about minimum security standards and indemnity/liability allocation if a breach occurs. ",
+      "affected_party": "Data Controller",
       "severity": "high"
     }
   },
@@ -390,7 +390,7 @@
     "change_id": 6,
     "classification": {
       "decision": "Formatting",
-      "justification": "Change only alters the spelling of 'organizational' to the British variant 'organisational', which does not affect legal meaning or obligations. This is a formatting/presentation change."
+      "justification": "The only change is the spelling of 'organizational' to British English 'organisational', which does not alter legal meaning, rights, or obligations."
     }
   },
   {
@@ -427,13 +427,8 @@
     "content": "INET-DESIGN ApS",
     "change_id": 7,
     "classification": {
-      "decision": "Critical",
-      "justification": "Adding the company name INET-DESIGN ApS changes or specifies an involved party, which materially affects contractual identity and obligations. This is legally significant rather than merely stylistic or administrative."
-    },
-    "impact_analysis": {
-      "legal_implications": "Inserting the company name “INET-DESIGN ApS” formally identifies a contractual party, which can change who bears data-protection obligations, liabilities, and notice/contractual performance duties. If the named entity does not match the intended legal party (or is added inconsistently elsewhere), it can create ambiguity over responsibility, affect enforcement, and require corresponding updates to signatures, contact details and insurance/authority checks.",
-      "affected_party": "Data Controller and Processor",
-      "severity": "medium"
+      "decision": "Minor",
+      "justification": "Adding the company name is an administrative identification/detail and does not alter substantive rights or obligations under the agreement, so it is a minor change."
     }
   },
   {
@@ -522,11 +517,11 @@
     "change_id": 8,
     "classification": {
       "decision": "Critical",
-      "justification": "Adding a 72-hour deadline changes the processor's notification obligation from a vague promptness standard to a specific timeframe, materially affecting parties' rights and compliance obligations. This is a substantive legal change concerning breach reporting timelines."
+      "justification": "Adding a specific 72-hour deadline materially changes the processor's notification obligation by imposing a concrete timeframe for breach reporting, which affects compliance duties and potential liabilities. This is a substantive legal change to rights/obligations, so it is critical."
     },
     "impact_analysis": {
-      "legal_implications": "Imposes a fixed 72‑hour deadline on the processor to notify the controller, which both narrows the processor’s previously flexible “without unnecessary delay” duty and may create a timing conflict with the controller’s own GDPR 72‑hour reporting obligations (if notification is made late within that window). The change increases exposure for both parties: the processor faces stricter contractual breach for missing the deadline, while the controller may be disadvantaged if the deadline is treated as permissible delay rather than immediate notice needed to meet supervisory reporting. It also adds",
-      "affected_party": "Data Controller and Processor",
+      "legal_implications": "The change adds a concrete 72-hour deadline to what was previously an open “without unnecessary delay” obligation. That provides clearer timing for controllers to meet regulatory reporting but creates potential liability for the processor if it fails to report within 72 hours and introduces ambiguity by combining “without unnecessary delay” with a fixed SLA. It may also force earlier notification of incidents that the processor is still investigating.",
+      "affected_party": "Data Controller",
       "severity": "medium"
     }
   },
@@ -588,7 +583,7 @@
     "change_id": 9,
     "classification": {
       "decision": "Minor",
-      "justification": "Adding \", and/or\" introduces an allowance for combining item d) with other items (e.g., e.), which slightly changes the scope but does not materially alter obligations or legal rights; this is a minor, non-substantive modification to wording and permissiveness."
+      "justification": "Adding “and/or” changes wording to allow this item to be performed alone or combined with others, altering interpretation slightly but not creating new obligations or rights. This is a minor, non-substantive modification to clarify scope. "
     }
   },
   {
@@ -641,7 +636,7 @@
     "change_id": 10,
     "classification": {
       "decision": "Formatting",
-      "justification": "Change only removes a space in the heading \"Data Controller\" -> \"DataController\", which affects presentation/spacing and does not alter legal rights or obligations."
+      "justification": "Change removes a space in the heading between 'Data' and 'Controller', which is purely typographical and does not alter legal meaning or obligations."
     }
   },
   {
@@ -748,10 +743,10 @@
     "change_id": 11,
     "classification": {
       "decision": "Critical",
-      "justification": "This change tightens the processor’s ability to engage sub-processors by replacing general authorization with a requirement for specific prior written consent, materially altering obligations and control over sub-processing."
+      "justification": "This change replaces a general authorization with a requirement for specific prior written authorization for any sub-processor (including those listed in appendix 3 or later instructions), which materially restricts the Data Processor’s ability to engage subcontractors and changes consent/approval mechanics. That alters substantive rights and obligations and is therefore critical."
     },
     "impact_analysis": {
-      "legal_implications": "The revision removes blanket/subsequent consent and requires the processor to get specific prior written approval for each sub-processor, increasing the controller’s control and imposing operational delays and administrative burdens on the processor. It may limit the processor’s ability to quickly engage cloud or specialist sub-processors, increase contractual negotiation and record-keeping, and could cause service disruptions if authorisation is withheld or delayed. The change also strengthens the controller’s compliance position and ability to vet sub-processors.",
+      "legal_implications": "Replacing a general authorization with a requirement for specific prior written consent for every sub-processor (including those listed in Appendix 3 or added by instruction) significantly limits the Processor’s operational flexibility and may cause delays in subcontracting, onboarding, and service delivery. It shifts control firmly to the Controller and increases contractual risk for the Processor (potential breach if engaged without express consent), while also creating administrative burdens on the Controller to review/approve each sub-processor. This change could also affect compliance and",
       "affected_party": "Processor",
       "severity": "high"
     }
@@ -816,7 +811,7 @@
     "change_id": 12,
     "classification": {
       "decision": "Formatting",
-      "justification": "Change only moves a comma (altering punctuation) without changing legal meaning or obligations, so it's a formatting change."
+      "justification": "Change only alters comma placement and does not change substantive wording or legal meaning; it's a punctuation/layout change."
     }
   },
   {
@@ -876,7 +871,7 @@
     "change_id": 13,
     "classification": {
       "decision": "Formatting",
-      "justification": "The only change is the British spelling of 'organizations' to 'organisations', which does not alter legal meaning or obligations and is purely presentational."
+      "justification": "The only change is the spelling of 'organizations' to 'organisations' (British vs American English), which does not alter legal meaning or obligations."
     }
   },
   {
@@ -907,10 +902,10 @@
     "change_id": 14,
     "classification": {
       "decision": "Critical",
-      "justification": "Removing the company name (INET-DESIGN ApS) alters identification of a contracting party or named entity in the agreement, which affects legal attribution and is therefore materially significant."
+      "justification": "Removing the company name deletes party identification; that materially affects who is bound by or referenced in the contract, which is a significant legal change."
     },
     "impact_analysis": {
-      "legal_implications": "Removing the named legal entity creates ambiguity about which party is bound by the contract, undermining enforceability, attribution of obligations/liability, service of notices, and may impede regulatory or contractual claims. This can also complicate compliance obligations and defence in disputes. ",
+      "legal_implications": "Removing the company name eliminates or obscures the contractual identification of a party (likely the Processor), creating ambiguity about which legal entity is bound, which may invalidate service obligations, hinder enforcement, and raise issues for liability, compliance and data protection accountability. This could prevent regulators or counterparties from determining responsibilities under GDPR and other laws. Immediate correction or clarification is required to preserve contract validity and assign compliance duties.",
       "affected_party": "Data Controller and Processor",
       "severity": "high"
     }
@@ -972,10 +967,10 @@
     "change_id": 15,
     "classification": {
       "decision": "Critical",
-      "justification": "This reverses an obligation entirely—changing from prohibiting notification when it conflicts with courts to requiring notification in such cases—altering material legal duties and compliance risk. Therefore it is a critical change."
+      "justification": "The modification reverses an obligation—from prohibiting notification when it conflicts with courts to requiring notification—directly changing parties' legal duties and potential compliance/conflict with judicial authorities, which is materially significant."
     },
     "impact_analysis": {
-      "legal_implications": "Reversing the clause forces notification even when it conflicts with EU or national court orders, creating a direct risk of breaching judicial orders, contempt, criminal liability, or sanctions and undermining obligations to maintain confidentiality or comply with legal prohibitions on disclosure. It also increases compliance complexity and potential liability for the party required to notify.",
+      "legal_implications": "Requiring notification even where it conflicts with an EU or national court order forces the party obliged to notify to choose breach of a court order over contract compliance, creating risk of contempt, sanctions or criminal liability and exposing both parties to legal enforcement actions. It also undermines lawful-grounds assessments under data protection law and may render the contract unenforceable to the extent it requires illegal acts.",
       "affected_party": "Processor",
       "severity": "high"
     }
@@ -1075,10 +1070,10 @@
     "change_id": 16,
     "classification": {
       "decision": "Critical",
-      "justification": "Specifying different currencies for agreed rates (DKK) and fallback supplier rates (EUR) changes the payment currency and allocation of exchange risk, which materially affects obligations and payment terms. This is a substantive contractual change."
+      "justification": "Changing the currencies for agreed and fallback hourly rates alters the economic terms and payment obligations (DKK vs EUR), which materially affects parties' rights and liabilities. This is a substantive contractual change. "
     },
     "impact_analysis": {
-      "legal_implications": "Specifying agreed rates in DKK but fallback supplier rates in EUR shifts exchange‑rate risk and may create ambiguity about which currency applies to a given invoice, impacting payment amounts, invoicing/VAT treatment and potential compliance with local currency laws. It raises the risk of disputes over conversion methodology, timing of exchange rates and who bears fluctuation costs, potentially requiring explicit conversion and invoicing rules.",
+      "legal_implications": "Specifying different currencies for the primary agreed rates (DKK) and the fallback rates (EUR) introduces currency and exchange-rate risk, may create billing and invoicing ambiguity, and could change which party bears FX exposure. It may also conflict with other contract provisions (governing law, payment clauses, VAT/tax treatment) and require clear conversion mechanics and payment timing to avoid disputes. Parties should confirm which currency invoices are issued and paid in and how rate conversions and disputes are handled.",
       "affected_party": "Data Controller and Processor",
       "severity": "medium"
     }
@@ -1186,13 +1181,8 @@
     ],
     "change_id": 17,
     "classification": {
-      "decision": "Critical",
-      "justification": "The change replaces a generic contractual party term (“the Data Processor”) with a specific named entity (“INETDESIGN”), altering who is barred from claiming remuneration and thus changing the scope of the obligation; this materially affects parties' rights/obligations."
-    },
-    "impact_analysis": {
-      "legal_implications": "By replacing the generic term “the Data Processor” with the specific entity “INETDESIGN”, the clause narrows the prohibition on claiming remuneration to that single named party; other processors (current or future) may retain the right to charge for remediation even when their breach caused the change. This reduces the Data Controller’s protection and shifts financial risk away from any processor other than INETDESIGN, potentially creating inconsistencies and enforcement difficulties across relationships. It may also create ambiguity about liability for subcontractors or successor processors.",
-      "affected_party": "Data Controller",
-      "severity": "medium"
+      "decision": "Minor",
+      "justification": "The change replaces the generic term “the Data Processor” with the specific party name “INETDESIGN,” clarifying the subject but not altering the substantive obligation if INETDESIGN is the Data Processor. This is a non-substantive clarification rather than a material contractual shift."
     }
   },
   {
@@ -1242,7 +1232,7 @@
     "change_id": 18,
     "classification": {
       "decision": "Formatting",
-      "justification": "The only alteration is the addition of a terminal period after the company name, which affects punctuation only and does not change legal rights, obligations, or meaning."
+      "justification": "Change only adds a terminal period to the company name, affecting punctuation not substance. This is a formatting change."
     }
   },
   {
@@ -1394,7 +1384,7 @@
     "change_id": 19,
     "classification": {
       "decision": "Minor",
-      "justification": "The change replaces 'item 12' with 'section 12'—a terminological clarification that does not alter rights or obligations (though it introduces slight inconsistency with the subsequent reference to 'item 12'). This is non-substantive and therefore minor."
+      "justification": "The modification only replaces the word \"item\" with \"section\" in referring to clause 12, a terminological edit that does not change rights or obligations; the substance of the provision remains the same. Even with the subsequent use of \"item 12,\" this is a non-substantive wording consistency change."
     }
   },
   {
@@ -1568,10 +1558,10 @@
     "change_id": 20,
     "classification": {
       "decision": "Critical",
-      "justification": "The new language carves out Personal Data breaches from the liability cap, making liability unlimited for such breaches. This materially changes parties' financial exposure and allocation of risk, so it is a critical legal change."
+      "justification": "The change removes the liability cap for Personal Data breaches by stating liability shall be unlimited for such breaches, which materially alters parties' legal and financial exposure. This is a substantive change to liability allocation and thus legally significant."
     },
     "impact_analysis": {
-      "legal_implications": "The change removes the liability cap for Personal Data breaches, exposing the party responsible for such breaches to unlimited damages (including regulatory fines and compensation). This significantly increases financial and regulatory exposure and may affect insurability and risk allocation under the DPA. It also creates stronger incentives for robust data security and incident handling but could make performance risk unacceptable for the capped party.",
+      "legal_implications": "The modification removes the contractual liability cap for Personal Data breaches, exposing the party responsible for such breaches to unlimited financial liability (including regulatory fines and compensation claims), materially increasing risk and insurance needs. It shifts allocation of breach risk away from the capped regime and may affect negotiations on security measures, indemnities and liability insurance. This change could also impact the controller’s ability to recover predictable damages but increases the processor’s potential exposure significantly.",
       "affected_party": "Processor",
       "severity": "high"
     }
@@ -1604,10 +1594,10 @@
     "change_id": 21,
     "classification": {
       "decision": "Critical",
-      "justification": "The addition creates an explicit exception removing liability limits for breaches involving Personal Data, which materially changes parties' liability exposure and is legally significant."
+      "justification": "The addition creates an explicit carve-out making liability unlimited for any breaches involving Personal Data, which materially changes allocation of risk and potential exposure under the contract. This meaningfully alters parties' legal and financial obligations, so it is critical."
     },
     "impact_analysis": {
-      "legal_implications": "The addition carves out personal-data breaches from any agreed liability caps, exposing the party processing personal data to unlimited financial liability for such incidents. This materially increases compliance and insurance risk, may alter negotiation of indemnities and could create mismatch with statutory limits or applicable law obligations. It also strengthens the controller’s protection but may deter processors or require higher pricing/insurance.",
+      "legal_implications": "The addition creates an open-ended carve-out exposing the party responsible for Personal Data breaches to unlimited liability, significantly increasing financial and regulatory risk (including fines, remediation and third-party claims). It shifts risk allocation away from a capped regime and may make the Processor unable to obtain affordable insurance or comply with contract caps, and could trigger renegotiation or refusal to perform. This also increases the Controller’s protections but may impede commercial balance and GDPR-related responsibilities if not matched by indemnities or security/ob",
       "affected_party": "Processor",
       "severity": "high"
     }
@@ -1783,12 +1773,12 @@
     "change_id": 22,
     "classification": {
       "decision": "Critical",
-      "justification": "This materially changes data retention and backup rights—removing the processor's 3-month post-termination processing window and imposing immediate deletion with a separate 7-year exception for financial records—altering legal obligations and compliance scope."
+      "justification": "This change materially alters post-termination data handling: it replaces a permissive 3-month processing/back-up period (as required by law) with an immediate deletion mandate and a seven-year retention exception only for financial records, significantly changing processor obligations and legal scope."
     },
     "impact_analysis": {
-      "legal_implications": "Requiring immediate deletion except for a seven‑year financial exception removes the processor’s previously permitted short post‑termination processing window and tightens backup retention, which may (i) impede lawful transitional activities the Controller expects, (ii) increase the Processor’s risk if Applicable Law requires longer retention for other categories, and (iii) create disputes about what is “strictly required” for financial records. The change shifts practical compliance burdens and may necessitate operational and clause updates to reconcile with statutory retention duties.",
+      "legal_implications": "Replacing a lawful, limited post‑termination processing/back-up period with an immediate deletion mandate (except seven‑year financial record retention) increases the Processor’s risk of breaching applicable laws that require continued processing or retention, and may make compliance with legal holds, investigations or transition obligations impossible. It also shifts greater operational and compliance burdens to the Processor while benefiting the Controller’s data minimisation interests, but could create conflicts where law requires retention beyond immediate deletion.",
       "affected_party": "Processor",
-      "severity": "medium"
+      "severity": "high"
     }
   },
   {
@@ -1852,12 +1842,12 @@
     "change_id": 23,
     "classification": {
       "decision": "Critical",
-      "justification": "Changing the referenced clause from 13.2.4 to 13.2.5 alters which specific contractual provision remains effective after expiry, potentially changing ongoing rights or obligations; this is a materially significant legal change."
+      "justification": "Changing the referenced clause from 13.2.4 to 13.2.5 alters which specific contractual provision remains continuously effective after expiry, which can change parties' post-termination rights or obligations and is therefore legally significant."
     },
     "impact_analysis": {
-      "legal_implications": "Replacing the referenced clause shifts which specific post‑termination obligations survive expiry (e.g., data return, deletion, confidentiality, audits or liability provisions). This may materially change ongoing duties and liabilities for one or both parties and create uncertainty about compliance and data subject rights after termination.",
+      "legal_implications": "Altering the survivability reference from clause 13.2.4 to 13.2.5 changes which post‑termination obligations survive, potentially affecting rights and duties such as data return, deletion, confidentiality or post‑termination audit/cooperation requirements. This may create uncertainty about which specific obligations remain enforceable after expiry and could shift burdens between the parties depending on the substantive content of 13.2.4 vs 13.2.5.",
       "affected_party": "Data Controller and Processor",
-      "severity": "high"
+      "severity": "medium"
     }
   },
   {
@@ -1923,12 +1913,12 @@
     "change_id": 24,
     "classification": {
       "decision": "Critical",
-      "justification": "The change removes a specific designated forum (Aarhus, Danish courts and related procedural rules) and replaces it with a broad, non-specific forum clause (“any court of competent jurisdiction”), which materially alters jurisdictional rights and dispute resolution certainty. This is a substantive legal change affecting enforcement and choice of law/method."
+      "justification": "The change replaces a specific Danish forum (Aarhus) and applicable referral rules with a broad \"any court of competent jurisdiction\" clause, materially altering where and how disputes may be resolved and thus changing legal rights and strategic forum selection. This is a substantive alteration to dispute resolution and jurisdiction, so it is critical."
     },
     "impact_analysis": {
-      "legal_implications": "Replacing a specific Danish forum (Aarhus courts and Danish procedural rules) with “any court of competent jurisdiction” removes predictability and certainty about venue and applicable procedural rules, increasing risk of forum-shopping, transnational litigation and enforcement difficulties (service, evidence, language). It may also indirectly affect applicable law and the ease of obtaining relief or enforcement of judgments. Parties’ costs and legal strategy will be materially impacted.",
+      "legal_implications": "Replacing a specific Danish forum (Aarhus) and referral rules with “any court of competent jurisdiction” removes agreed venue certainty and may permit suit in multiple, potentially less favorable jurisdictions, increasing forum-shopping risk, inconsistent procedural rules, and enforcement uncertainty. This materially alters dispute-resolution strategy and could affect applicable procedural law, service and enforcement of judgments. Parties may face greater litigation costs and unpredictability about applicable rules and forums.",
       "affected_party": "Data Controller and Processor",
-      "severity": "medium"
+      "severity": "high"
     }
   },
   {
@@ -1993,7 +1983,7 @@
     "change_id": 25,
     "classification": {
       "decision": "Formatting",
-      "justification": "The change removes a stray hyperlink/markdown artifact and does not alter the contractual language or legal obligations; it is purely presentation cleanup."
+      "justification": "This change removes a markdown link and adjusts spacing but does not alter contractual terms, obligations, or meaning. It is purely presentation-level formatting. "
     }
   },
   {
@@ -2048,7 +2038,7 @@
     "change_id": 26,
     "classification": {
       "decision": "Formatting",
-      "justification": "The change only inserts a comma between words, which does not alter meaning or legal obligations; it is purely punctuation/formatting."
+      "justification": "Change only inserts a comma between 'numbers' and 'and date of birth', which is purely punctuation and does not alter meaning or obligations."
     }
   },
   {
@@ -2103,13 +2093,8 @@
     ],
     "change_id": 27,
     "classification": {
-      "decision": "Critical",
-      "justification": "Removing the legal suffix 'ApS' changes the formal name/identity of the contracting party, which can alter legal liability and enforceability; thus it materially affects the contract. This is a critical legal change."
-    },
-    "impact_analysis": {
-      "legal_implications": "Removing the corporate suffix alters the precise legal identity of the contracting party, creating ambiguity over which legal entity is bound (and liable) under the agreement. This can undermine enforceability, complicate service of process, and increase risk of disputes about who bears controller obligations and liabilities. It may also affect registration, tax and corporate representation checks required for compliance.",
-      "affected_party": "Data Controller",
-      "severity": "high"
+      "decision": "Minor",
+      "justification": "This alters the company name by removing the corporate designation “ApS,” which is an administrative/identification detail rather than changing substantive obligations or rights in the clause. It adjusts naming but does not itself modify legal responsibilities in the provision, so it's a minor change."
     }
   },
   {
@@ -2190,7 +2175,7 @@
     "change_id": 28,
     "classification": {
       "decision": "Formatting",
-      "justification": "The change corrects a misspelling of 'Council's' without altering legal meaning, rights, or obligations; it's a non-substantive typographical fix."
+      "justification": "The change corrects a misspelling of 'Counsil' to 'Council', which does not alter legal meaning or obligations and is purely a presentation/typographical fix."
     }
   },
   {
@@ -2405,12 +2390,12 @@
     "change_id": 29,
     "classification": {
       "decision": "Critical",
-      "justification": "This change removes blanket authorization for the processor to engage sub-processors and instead requires specific prior written consent for each new sub-processor, which materially alters the parties' rights and operational flexibility. It is a substantive shift in obligations and approval process, making it a critical legal change."
+      "justification": "This change removes a blanket authorization and replaces it with a requirement that each new sub-processor obtain specific prior written consent from the Data Controller, which materially changes the parties’ rights and approval process for subcontracting. It therefore alters substantive obligations and control over data processing. "
     },
     "impact_analysis": {
-      "legal_implications": "Requiring specific prior written consent for each new sub-processor removes the processor’s blanket authorization and substantially increases the controller’s control over subcontracting, potentially causing operational delays, added contract/admin burden and risk of breach if processor engages sub-processors without consent. It also strengthens the controller’s ability to enforce data protection choices and objections. This may necessitate renegotiation of SLAs and processes for vetting and approval.",
+      "legal_implications": "The amendment removes the processor’s prior general authorization to appoint sub-processors and requires specific prior written consent for each new sub-processor, shifting contracting control to the controller. This increases administrative burden and operational risk for the processor (potential delays or inability to subcontract), and may expose both parties to performance and compliance issues if consent is withheld or delayed, though it is permissible under GDPR. The controller’s ability to object is strengthened, reducing the processor’s flexibility to scale or replace suppliers quickly.",
       "affected_party": "Processor",
-      "severity": "high"
+      "severity": "medium"
     }
   },
   {
